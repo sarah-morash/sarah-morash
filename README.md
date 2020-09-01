@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Sarah, and I am a fullstack developer. I have experience in backend working with C#/ASP.net, Sitecore, Kentico, WordPress & Drupal, and have switched gears more than two years ago to focus more on frontend working with Javascript, React, CSS/SCSS & React Native. I've also been learning cloud technologies learning AWS & GCP.
+
+- 📫 Contact: sarahjmorash@gmail.com
+- 🌐 Website: sarahmorash.me
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I do Crossfit/Powerlifting in my spare time... currently for fun, but maybe I will compete some day 😜
 
 <!--
 **sarah-morash/sarah-morash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
