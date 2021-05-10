@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sarah, and I am a fullstack developer. I have experience in backend working with C#/ASP.net and CMS development such as Sitecore, Kentico, WordPress & Drupa. More than 3 years ago, I switched gears to focus more on frontend programming working with Javascript, React, CSS/SCSS & React Native. I've also been learning cloud technologies learning AWS & GCP.
+### Hi there 👋 I'm Sarah, and I am a fullstack developer. I have experience in backend working with C#/ASP.net and CMS development such as Sitecore, Kentico, WordPress & Drupal. More than 3 years ago, I switched gears to focus more on frontend programming working with Javascript, React, CSS/SCSS & React Native. I've also been learning cloud technologies learning AWS & GCP.
 
 - 📫 Contact: sarahjmorash@gmail.com
 - 🌐 Website: sarahmorash.me
